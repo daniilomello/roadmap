@@ -5,6 +5,7 @@
   - [✅ Finished](#-finished)
     - [Courses](#Courses)
     - [Bootcamps](#bootcamps)
+    - [Books](#books)
   - [🎯 Upcoming](#-upcoming)
 
 ## 📑 In Progress
@@ -18,14 +19,14 @@
 - [x] **Matheus Luiz** - JStack React & Node 2022
 
 ### Courses
-- [x] **Fernando Daciuk** - Curso de Figma 2022
+- [x] **Felipe Santana** - Curso de Figma 2022
 - [x] **Newline** - Build a Spotify Connected App - 2022
 - [x] **William Justen** - Git & Github para na Vida - 2021
 - [x] **Origamid** - React Completo 2020
 - [x] **William Justen** - Git & Github para Iniciates - 2020
 - [x] **Junior to Senior Web Developer** - Zero to Mastery 2020
 - [x] **Web Developer** - Zero to Mastery 2019
-- [x] **Felipe Santana** - Javascript Ninja 2019
+- [x] **Fernando Daciuk** - Javascript Ninja 2019
 
 ### Books
 - [x] **O mantra da produtividade** - Casa do Código
