@@ -1,13 +1,15 @@
 # Danilo Roadmap
 
-- [Danilo Roadmap](#Danilo Roadmap)
+- [Danilo Roadmap](#danilo-roadmap)
   - [📑 In Progress](#-in-progress)
   - [✅ Finished](#-finished)
     - [Courses](#Courses)
     - [Bootcamps](#bootcamps)
-  - [🎯 Upcoming](#-próximos-estudos)
+  - [🎯 Upcoming](#-upcoming)
 
 ## 📑 In Progress
+- [ ] **Leandro Costa** - Arquitetura de Microsservicos com .NET 6 e C#
+- [ ] **Rocketseat** - Ignite Node 2023
 
 ## ✅ Finished
 ### Bootcamps
@@ -28,11 +30,10 @@
 ### Books
 - [x] **O mantra da produtividade** - Casa do Código
 
-## 🎯 Próximos estudos
+## 🎯 Upcoming
 
 - [ ] **William Justen** - React Avançado
 - [ ] **Rocketseat** - Ignite React 2023
-- [ ] **Rocketseat** - Ignite Node 2023
 - [ ] **Rocketseat** - Ignite React Native 2023
 - [ ] **Manguinho** - NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
 - [ ] **Manguinho** - ReactJS, Hooks, TDD, Clean Architecture, SOLID e Patterns
