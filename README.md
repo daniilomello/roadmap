@@ -3,8 +3,8 @@
 - [Danilo Roadmap](#danilo-roadmap)
   - [📑 In Progress](#-in-progress)
   - [✅ Finished](#-finished)
-    - [Courses](#Courses)
     - [Bootcamps](#bootcamps)
+    - [Courses](#courses)
     - [Books](#books)
   - [🎯 Upcoming](#-upcoming)
 
@@ -25,7 +25,7 @@
 - [x] **Origamid** - React Completo 2020
 - [x] **William Justen** - Git & Github para Iniciates - 2020
 - [x] **Junior to Senior Web Developer** - Zero to Mastery 2020
-- [x] **Web Developer** - Zero to Mastery 2019
+- [x] **The Complete Web Developer** - Zero to Mastery 2019
 - [x] **Fernando Daciuk** - Javascript Ninja 2019
 
 ### Books
@@ -41,6 +41,7 @@
 - [ ] **Manguinho** - NodeJs Avançado com TDD, Clean Architecture e Typescript
 - [ ] **Matheus Luiz** - JStack React Native 2023
 - [ ] **Josh Comeau** - CSS for JavaScript Developers
+- [ ] **AWS Expert** - Linux Tips
 ---
 
 <p align="center">Inspired by <a href="https://github.com/laripeanuts">☕ Larissa Rabelo</a></p>
