@@ -11,6 +11,7 @@
 ## 📑 In Progress
 - [ ] **Leandro Costa** - Arquitetura de Microsservicos com .NET 6 e C#
 - [ ] **Rocketseat** - Ignite Node 2023
+- [ ] **Software Architect** - Full Cycle
 
 ## ✅ Finished
 ### Bootcamps
