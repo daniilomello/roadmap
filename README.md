@@ -9,9 +9,7 @@
   - [🎯 Upcoming](#-upcoming)
 
 ## 📑 In Progress
-- [ ] **Leandro Costa** - Arquitetura de Microsservicos com .NET 6 e C#
-- [ ] **Rocketseat** - Ignite Node 2023
-- [ ] **Software Architect** - Full Cycle
+- [ ] **No Course** - In progress
 
 ## ✅ Finished
 ### Bootcamps
@@ -34,15 +32,7 @@
 
 ## 🎯 Upcoming
 
-- [ ] **William Justen** - React Avançado
-- [ ] **Rocketseat** - Ignite React 2023
-- [ ] **Rocketseat** - Ignite React Native 2023
-- [ ] **Manguinho** - NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
-- [ ] **Manguinho** - ReactJS, Hooks, TDD, Clean Architecture, SOLID e Patterns
-- [ ] **Manguinho** - NodeJs Avançado com TDD, Clean Architecture e Typescript
-- [ ] **Matheus Luiz** - JStack React Native 2023
-- [ ] **Josh Comeau** - CSS for JavaScript Developers
-- [ ] **AWS Expert** - Linux Tips
+- [ ] **No Upcoming** - Course or Book yet
 ---
 
 <p align="center">Inspired by <a href="https://github.com/laripeanuts">☕ Larissa Rabelo</a></p>
